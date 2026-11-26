@@ -1,0 +1,11 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Rust
+rust-service/target/
+Cargo.lock
+
+# OS / editor
+.DS_Store
+*.swp
